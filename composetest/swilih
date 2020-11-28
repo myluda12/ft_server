@@ -1,0 +1,8 @@
+poste idid:
+brew install docker
+brew install docker-machine
+nafs lposte
+docker-machine create --driver virtualbox ayoub
+docker-machine env ayoub
+eval…
+connect port on virtual box
